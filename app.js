@@ -715,3 +715,153 @@ console.log(colour);
 
 colour.splice(2,0,"red")
 console.log(colour);
+
+
+
+
+// g. Ask the user at which index he/she wants to delete 
+
+// colour.shift();
+// console.log(colour);
+
+
+
+
+
+// 10. Write a program to store student scores in an array 
+
+// var a = ["Score of Students",320,230,480,120,"<br>"]
+// var b = ["ordere scores of student",120,230,320,480]
+// document.write(a+b)
+
+// 11. Write a program to initialize an 
+
+// var a = ["cities list ","<br>","Karachi","lahore","peshawar","islamabad","quetta","<br>"]
+// document.write(a)
+
+
+
+// var copya = a.slice(3,4);
+// document.write(a)
+
+
+
+// 12.  Write a program to create a single string from the 
+
+// var fruits = ["Banana", "Orange", "Apple", "Mango"];
+
+// fruits.join()
+// document.write(fruits)
+
+// 13. Create a new array. Store values one by one in 
+
+// var a = ["Device " ,"<br>","printer",,"<br>","mouse.","<br>","monitor",,"<br>","keyboard"]
+// a.join()
+// document.write(a)
+
+
+// 2. Declare and initialize a multidimensional array representing the following matrix
+
+
+
+// var date = [1,2,2,2,"<br>",2,0,2,1,"<br>",2,3,4,5]
+// date.join()
+// document.write(date)
+
+// 3. Write a program to print numeric counting from 1 to 10
+
+// for (var b = 1;b<= 10;b++){
+//     document.write(b+"<br>")
+// }
+
+// 4.  Write a program to print multiplication table of any 
+
+// for(var i =1;i<= 15;i++)
+//     document.write("2"+"x"+i+"="+2*i+"<br>")
+
+
+
+
+
+
+
+
+// 5. Write a program to print items of the following array
+
+
+// var a = ["apple","<br>","bnana","<br>","orange","<br>","strawberry"]
+// console.log(a);
+
+
+
+
+// 6. Generate the following series in your browser. See example output. a
+
+// for (var b = 1;b<= 10;b++){
+//         document.write(b)
+//      }
+
+
+
+// for (var b = 10;b>= 1;b+b++){
+//   document.write("2"+"x"+b+"="+2+b)
+//           }
+
+
+          // for(var i =0;i<= 15;i++)
+          //  console.log(+i+2*i)
+
+
+          // for(var i =1;i<= 15;i++)
+          //    document.write(+i+"k")
+
+
+
+// var a = prompt("Enter")
+//  var a=["cake ","bakkery","bread"]
+//  if(a== a){
+//    alert(a+"is available")
+//  }         
+//    else{
+//    alert("not available")
+//   }
+
+
+
+
+
+
+
+// A = [24, 53, 78, 91, 12]
+// b = [91];
+// document.write(A + "is smaller number"+"<br>")
+// document.write(b+"is a larger number"+"<br>")
+
+
+
+
+// A = [24, 53, 78, 91, 12]
+// b = [12]
+
+// document.write("Array items"+A+"<br>")
+// document.write(b+"is a smaller number"+"<br>")
+
+
+// 10. Write a program to print multiples of 5 ranging 1 to 
+
+// for(var i =1;i<= 15;i++)
+//     document.write(i+4*i)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
